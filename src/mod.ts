@@ -31,6 +31,8 @@ class Mod implements IPostDBLoadMod
                 }
             }
         }
+
+        console.log("[SCHKRM] No FIR Hideout loaded.")
     }
 }
 
